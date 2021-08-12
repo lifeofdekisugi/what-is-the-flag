@@ -51,7 +51,7 @@ We have another link and second part of the flag **g0t_**. In this link you have
 
 If you want to get SSID of that BSSID then you can find it on [WIGLE](https://wigle.net/) (Probably you need to sign in).
 
-After getting the SSID you can use that **UniliverWifi** as  Vigenere decoding key. After decoding you can see
+After getting the SSID you can use that **UnileverWiFi** as  Vigenere decoding key. After decoding you can see
 
 ```
 Wow, nice ! Crack the last part and anjoy.
