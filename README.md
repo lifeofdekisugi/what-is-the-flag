@@ -38,9 +38,13 @@ After decoding you can see
 
 ```
 Wow, that's dope man ! You are doing good.
-It's time for second part of the flag and here it is : g0t_
+It's time for second part of the flag and here it is : g0t_ 
 
-Probably I can belive you so, Let me share my location with you. Please don't share with anyone because CIA finding me. My BSSID : B4:5D:50:AA:86:41
+Hey, my fellow hackers you know Wireless Network Mapping is a fun thing to do ? 
+
+Probably I can believe you so, Let me share my location with you. Please don't share with anyone because CIA finding me. My BSSID : B4:5D:50:AA:86:41
+
+You Know there is some technology that can give my location from my BSSID. I believed in you don't let me down. Remember my info is the KEY for the next part of the flag.
 
 Check this link to get third part of the flag.
 https://jpst.it/2vlgO
